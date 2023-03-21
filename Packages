@@ -12,18 +12,3 @@ SHA256: 695ae12989448ac0195ede3cd66d7c9c51094338671ea3f078b2fa254fd98074
 Section: Tweaks
 Depiction: https://safouha1.github.io/safouha
 Name: Watusi Tweak
-
-Package: com.safouha.videoleaphack
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Ali Al Boustani
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts:
-Filename: debs/com.safouha.videoleaphack_0.0.1-1+debug_iphoneos-arm
-Size: 7878
-MD5sum: 881b2bdb789e0d5b7411e25fe47ee818
-SHA1: 6fd090331f7d623f907a9dc6420d36f429c93b3a
-SHA256: 47ec355ff9d8bb3168625b60bb8df981a075d45e44a6244b5c3c6d912b487bd5
-Section: Tweaks
-Depiction: https://safouha1.github.io/safouha
-Name: VideoleapHack
